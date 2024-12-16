@@ -1,6 +1,3 @@
-Here’s an improved version of your `README.md` with icons, badges, and more engaging content, including an animated badge for Binder:
-
-```markdown
 # Robotic Systems Book 📚
 
 ## Author: Kris Hauser 🤖
